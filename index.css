@@ -80,19 +80,22 @@
     background-color: #ffffff;
     opacity: 0.9;
     width: 100%;
-    height: calc(100dvh - 100px);
+    height: calc(100dvh - 200px);
     text-align: center;
     z-index: 5;
   }
   .navbar-links ul {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     font-size: 18px;
     font-weight: 500;
     gap: 20px;
     margin-top: 30px;
+  }
+  .navbar-links li{
+    margin-right: 0;
   }
 }
 /* Media query for smaller screens */
