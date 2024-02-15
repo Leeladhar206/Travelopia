@@ -30,8 +30,7 @@ Check out the live demo of Travelopia: [https://travelopia-jl.netlify.app/](http
 ### 3. Mobile View
 
 *Mobile View*: This screenshot illustrates the responsive nature of Travelopia across different screen sizes. The website adapts seamlessly to mobile devices, ensuring optimal user experience on smartphones and tablets.
-![Mobile View](https://i.ibb.co/h9DhXxS/Screenshot-2024-02-15-132921.png)
-![Hamburger](https://i.ibb.co/dBJtnsN/Screenshot-2024-02-15-133542.png)
+![Mobile View](https://i.ibb.co/wrQW6zb/Mix-Collage-15-Feb-2024-01-47-PM-3312.jpg)
 
 ## Media Queries
 Travelopia incorporates media queries to ensure a consistent and optimized user experience across various screen sizes:
