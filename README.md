@@ -5,16 +5,15 @@ Welcome to Travelopia, your one-stop destination for all your travel needs. Trav
 ## Deployed Link
 Check out the live demo of Travelopia: [https://travelopia-jl.netlify.app/](https://travelopia-jl.netlify.app/)
 
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
 ## How to Use
 1. Visit the [https://travelopia-jl.netlify.app/](https://travelopia-jl.netlify.app/) to explore the website.
 2. Click on the "Click here" button to open the modal.
 3. To close the modal, click anywhere outside the modal content.
-
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
 
 ## Screenshots
 ### 1. Site Preview
